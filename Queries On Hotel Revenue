@@ -1,6 +1,3 @@
-/* 
-Working with SQL to answer stakeholder questions
-*/
 -- Unifying all tables
 
 SELECT *
