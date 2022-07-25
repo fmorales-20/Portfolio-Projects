@@ -1,5 +1,5 @@
 -- Unifying all tables
-
+ 
 SELECT *
 FROM dbo.[2018]
 union
