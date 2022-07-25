@@ -1,4 +1,4 @@
---Looking at Covid Death table
+--Looking at Covid Death table 
 
 SELECT *
 FROM PortfolioProject..Covids_Deaths
